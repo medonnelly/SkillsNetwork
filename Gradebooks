@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "columnMarks": [
+        {
+          "columnId": 14,
+          "isAbsent": true,
+          "isExempt": true,
+          "isSubmitted": true,
+          "value": "95.99"
+        }
+      ],
+      "schoolId": "065500557552"
+ }
+]
+}
